@@ -19,6 +19,6 @@ Main Authors: Kevin Ramirez & Joshua Peng
 ### check-for-known-bad-passwords
 This is a seperate command line tool that allows a user to input a password string and have it checked against a dataset of known bad passwords.  This tool uses the HaveIBeenPwned API.
 
-Readme: 
+Readme: check-for-known-bad-passwords/readme.md
 
 Main Authors: Kevin Ramirez & Joshua Peng
