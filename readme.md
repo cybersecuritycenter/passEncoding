@@ -12,7 +12,7 @@ Readme:
 ### create-password-encryption-questions
 Tool that can be used to create password cracking questions for ToroHack/Hackathon.  Also includes a seperate script to check wordlists for profanity so bad words can be removed.  The output expected is a spreadsheet containing the password and encrpytion information.
 
-Readme: 
+Readme: create-password-encryption-questions/readme.md
 
 Main Authors: Kevin Ramirez & Joshua Peng
 
